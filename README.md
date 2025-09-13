@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Menu-Driven Calculator in Java
 
 This is a simple **menu-driven interactive calculator** written in Java.  
@@ -10,3 +11,7 @@ It allows the user to:
 1. Compile the program:
    ```bash
    javac MenuCalculator.java
+=======
+# menu-driven-calculator-java
+a simple menu-driven calculator in java
+>>>>>>> 3c2d826d119a9d7a28b05a5fbf3508ed32877f39
